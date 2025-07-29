@@ -1,0 +1,13 @@
+train: C:\Users\aswin\Desktop\YOLO\KV_PYNR-3\train
+val: C:\Users\aswin\Desktop\YOLO\KV_PYNR-3\valid
+test: C:\Users\aswin\Desktop\YOLO\KV_PYNR-3\test
+
+nc: 2
+names: ['dog_aggressive', 'normal_dogs']
+
+roboflow:
+  workspace: do_nothing
+  project: kv_pynr-vgmnv
+  version: 3
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/donothing/kv_pynr-vgmnv/dataset/3
