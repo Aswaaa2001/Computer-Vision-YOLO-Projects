@@ -1,0 +1,13 @@
+train: C:\Users\aswin\Desktop\YOLO\plate-detection.v2i.yolov11\train
+val: C:\Users\aswin\Desktop\YOLO\plate-detection.v2i.yolov11\valid
+
+
+nc: 2
+names: ['Plate', 'license-plate-detection - v2 2024-03-13 8-19pm']
+
+roboflow:
+  workspace: licenseplatedetection-eiszv
+  project: plate-detection-koos2
+  version: 2
+  license: Public Domain
+  url: https://universe.roboflow.com/licenseplatedetection-eiszv/plate-detection-koos2/dataset/2
