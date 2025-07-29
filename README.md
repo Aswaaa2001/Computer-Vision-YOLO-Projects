@@ -35,7 +35,7 @@ Welcome to my curated collection of Computer Vision projects built using YOLO (Y
 
 1. 🔧 Setup Environment
 ```bash
-git clone https://github.com/yourusername/vision-yolo-projects.git
+git clone https://github.com/Aswaaa2001/Computer-Vision-YOLO-Projects.git
 cd vision-yolo-projects
 python -m venv venv
 venv\Scripts\activate  # or source venv/bin/activate (Linux)
