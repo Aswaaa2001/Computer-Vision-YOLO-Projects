@@ -1,0 +1,13 @@
+train: C:\Users\aswin\Desktop\YOLO\Stone, Paper, Scissor\train
+val: C:\Users\aswin\Desktop\YOLO\Stone, Paper, Scissor\valid
+test: C:\Users\aswin\Desktop\YOLO\Stone, Paper, Scissor\valid
+
+nc: 3
+names: ['Paper', 'Scissor', 'Stone']
+
+roboflow:
+  workspace: donothing
+  project: piedra-papel-o-tijeras-koe5g
+  version: 1
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/donothing/piedra-papel-o-tijeras-koe5g/dataset/1
